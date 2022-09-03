@@ -1,0 +1,15 @@
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\bin\Debug\net5.0\FoodDeliveryApp.DAL.deps.json
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\bin\Debug\net5.0\FoodDeliveryApp.DAL.runtimeconfig.json
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\bin\Debug\net5.0\FoodDeliveryApp.DAL.runtimeconfig.dev.json
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\bin\Debug\net5.0\FoodDeliveryApp.DAL.dll
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\bin\Debug\net5.0\ref\FoodDeliveryApp.DAL.dll
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\bin\Debug\net5.0\FoodDeliveryApp.DAL.pdb
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\obj\Debug\net5.0\FoodDeliveryApp.DAL.csproj.AssemblyReference.cache
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\obj\Debug\net5.0\FoodDeliveryApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\obj\Debug\net5.0\FoodDeliveryApp.DAL.AssemblyInfoInputs.cache
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\obj\Debug\net5.0\FoodDeliveryApp.DAL.AssemblyInfo.cs
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\obj\Debug\net5.0\FoodDeliveryApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\obj\Debug\net5.0\FoodDeliveryApp.DAL.dll
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\obj\Debug\net5.0\ref\FoodDeliveryApp.DAL.dll
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\obj\Debug\net5.0\FoodDeliveryApp.DAL.pdb
+C:\Users\popma\OneDrive\Documents\FoodDeliveryApp.DAL\obj\Debug\net5.0\FoodDeliveryApp.DAL.genruntimeconfig.cache
