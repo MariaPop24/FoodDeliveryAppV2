@@ -6561,11 +6561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp\\FoodDeliveryApp.csproj",
+      "projectUniqueName": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp\\FoodDeliveryApp.csproj",
       "projectName": "FoodDeliveryApp",
-      "projectPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp\\FoodDeliveryApp.csproj",
+      "projectPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp\\FoodDeliveryApp.csproj",
       "packagesPath": "C:\\Users\\popma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp\\obj\\",
+      "outputPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\popma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6582,11 +6582,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp.BLL\\FoodDeliveryApp.BLL.csproj": {
-              "projectPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp.BLL\\FoodDeliveryApp.BLL.csproj"
+            "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp.BLL\\FoodDeliveryApp.BLL.csproj": {
+              "projectPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp.BLL\\FoodDeliveryApp.BLL.csproj"
             },
-            "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp.DAL\\FoodDeliveryApp.DAL.csproj": {
-              "projectPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp.DAL\\FoodDeliveryApp.DAL.csproj"
+            "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp.DAL\\FoodDeliveryApp.DAL.csproj": {
+              "projectPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp.DAL\\FoodDeliveryApp.DAL.csproj"
             }
           }
         }
