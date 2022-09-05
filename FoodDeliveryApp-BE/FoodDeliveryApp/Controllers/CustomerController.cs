@@ -59,7 +59,7 @@ namespace FoodDeliveryApp.Controllers
         [HttpGet("Get-select")]
         public async Task<IActionResult> GetCustomersSelect()
         {
-            var customer = await _context.Customers.Select(x => new { CustomerId = x.CustomerId, FirstName = x.FirstName, LastName = x.LastName }).ToListAsync();
+            var customer = await _context.Customers.Select(x => new { CustomerId = x.CustomerId, FirstName = x.FirstName, LastName = x.LastName, Mail = x.Mail, PhoneNumber = x.PhoneNumber }).ToListAsync();
 
             return Ok(customer);
 

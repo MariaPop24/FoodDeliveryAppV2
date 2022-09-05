@@ -1,6 +1,8 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Subscription } from 'rxjs';
+import { Customer } from 'src/app/interfaces/customer';
+import { User } from 'src/app/interfaces/user';
 import { CustomersService } from 'src/app/services/customers.service';
 import { DataService } from 'src/app/services/data.service';
 
@@ -12,10 +14,10 @@ import { DataService } from 'src/app/services/data.service';
 export class CustomersComponent implements OnInit, OnDestroy {
 
   public subscription!: Subscription;
-  public loggedUser!: { username: string; password: string; };
+  public loggedUser!: User;
   public parentMessage = 'message from parent';
-  public customers = [];
-  public displayedColumns = ['id', 'firstName', 'lastName']
+  public customers: Customer[] = [];
+  public displayedColumns = ['id', 'firstName', 'lastName', 'mail', 'phoneNumber', 'delete']
 
   constructor(
     private router: Router,
@@ -24,9 +26,9 @@ export class CustomersComponent implements OnInit, OnDestroy {
   ) { }
 
   ngOnInit() {
-    this.subscription = this.dataService.currentUser.subscribe(user => this.loggedUser = user);
+    this.subscription = this.dataService.currentUser.subscribe((user: User) => this.loggedUser = user);
     this.customersService.getAllCustomers().subscribe(
-      (result) => {
+      (result: Customer[]) => {
         console.log(result);
         this.customers = result;
       },
@@ -47,5 +49,16 @@ export class CustomersComponent implements OnInit, OnDestroy {
 
   public receiveMessage(event: any): void {
     console.log(event);
+  }
+
+  public deleteCustomer(customer: any): void {
+    this.customersService.deleteCustomer(customer).subscribe(
+      (result) => {
+        console.log(result);
+      },
+      (error) => {
+        console.error(error);
+      }
+    )
   }
 }
