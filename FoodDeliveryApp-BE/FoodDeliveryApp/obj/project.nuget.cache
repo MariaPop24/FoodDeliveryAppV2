@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "znfnriw+6JXOgQ1Fcge+KvjvSy9TvQ9tWq5KjKemlMysIvT+ZFMe2fnLJXZ376MhvqzEjhHFoLJHl1yEQbIQDA==",
+  "dgSpecHash": "nVaBo7bgmEDU1I/PVd+mN71mCYkwLNVVBLfAMrKMVwnuCchEUNBuKEaV6pp4qQ5OC94et7Z18FDQwOWnERSUnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp\\FoodDeliveryApp.csproj",
+  "projectFilePath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp\\FoodDeliveryApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\popma\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\popma\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

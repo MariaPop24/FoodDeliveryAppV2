@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FoodDeliveryApp-BE",
+    "\\FoodDeliveryApp-BE\\FoodDeliveryApp",
+    "\\FoodDeliveryApp-BE\\FoodDeliveryApp.DAL",
+    "\\FoodDeliveryApp-BE\\FoodDeliveryApp.DAL\\Migrations"
+  ],
+  "SelectedNode": "\\FoodDeliveryApp-BE\\FoodDeliveryApp.DAL\\Migrations\\20220903183556_AddedAllTables.cs",
+  "PreviewInSolutionExplorer": false
+}

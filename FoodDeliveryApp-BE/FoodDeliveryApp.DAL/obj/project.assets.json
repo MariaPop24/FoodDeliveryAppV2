@@ -6328,11 +6328,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp.DAL\\FoodDeliveryApp.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp.DAL\\FoodDeliveryApp.DAL.csproj",
       "projectName": "FoodDeliveryApp.DAL",
-      "projectPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp.DAL\\FoodDeliveryApp.DAL.csproj",
+      "projectPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp.DAL\\FoodDeliveryApp.DAL.csproj",
       "packagesPath": "C:\\Users\\popma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp.DAL\\obj\\",
+      "outputPath": "C:\\Users\\popma\\OneDrive\\Documents\\FoodDeliveryApp-Project\\FoodDeliveryApp-BE\\FoodDeliveryApp.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\popma\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -57,7 +57,6 @@ namespace FoodDeliveryApp.Controllers
         }
 
         [HttpGet("Get-select")]
-        [Authorize("Admin")]
         public async Task<IActionResult> GetCustomersSelect()
         {
             var customer = await _context.Customers.Select(x => new { CustomerId = x.CustomerId, FirstName = x.FirstName, LastName = x.LastName }).ToListAsync();
